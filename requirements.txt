@@ -1,0 +1,8 @@
+scikit-fuzzy
+tkinter
+requests
+folium
+matplotlib
+numpy
+scipy
+networkx
